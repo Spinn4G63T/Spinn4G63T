@@ -1,5 +1,7 @@
 - Heya heya, I’m @Spinn4G63T
 - Pronouns: he/him
+- Language: English
+- Programming Languages I'm Learning: Golang, C, Lua
 
 - I’m interested in anything related to instructing devices on how to communicate
 - I’m currently learning network programming
