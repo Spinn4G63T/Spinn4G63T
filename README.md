@@ -2,6 +2,7 @@
 - Pronouns: he/him
 - Language: English
 - Programming Languages: Golang, C
+- Driven by my interest in computers!
 
 - I'm interested in lower level programming, particularly anything to do with networking/network programming: TCP/IP stacks, implementing protocols, programs that communicate over a network, etc.
 
