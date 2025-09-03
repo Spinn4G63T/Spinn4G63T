@@ -4,7 +4,7 @@
 - Programming Languages: Golang, C
 - Driven by my interest in computers!
 
-- I'm interested in lower level programming, particularly anything to do with networking/network programming: TCP/IP stacks, implementing protocols, programs that communicate over a network, etc.
+- I'm interested in lower level programming, particularly anything to do with networking/network programming & systems.
 
 - How to reach me: Reach me here, on github, for now!
 
